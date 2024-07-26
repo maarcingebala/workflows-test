@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "workflows-test"
-version = "0.1.13"
+version = "0.1.14"
 description = ""
 authors = [ "Marcin Gębala <maarcin.gebala@gmail.com>" ]
 
